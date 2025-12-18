@@ -7,7 +7,7 @@ An AI-powered web application that uses deep learning to detect and diagnose pla
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Web%20App-red)
 
-🔗 **Live Demo:** [https://deep-learning-project-brown.vercel.app](https://deep-learning-project-brown. vercel.app)
+🔗 **Live Demo:** [https://deep-learning-project-5vkxrfs9ouffalnpzefqtm.streamlit.app/](https://deep-learning-project-5vkxrfs9ouffalnpzefqtm.streamlit.app/)
 
 ---
 
