@@ -18,7 +18,7 @@ An AI-powered web application that uses deep learning to detect and diagnose pla
 - 📊 **Disease Diagnosis**: Accurate identification of various plant diseases
 - 💡 **Treatment Recommendations**: Provides disease details and suggested treatments
 - 💻 **User-Friendly Interface**: Built with Streamlit for seamless user experience
-- ☁️ **Cloud Deployment**: Deployed on AWS EC2 for global accessibility
+- ☁️ **Cloud Deployment**: Deployed on streamlit cloud for global accessibility
 - 🔒 **Secure & Scalable**: Production-ready deployment architecture
 
 ---
@@ -31,7 +31,7 @@ An AI-powered web application that uses deep learning to detect and diagnose pla
 | **Backend** | Python 3.8+ |
 | **ML Framework** | TensorFlow/Keras |
 | **Model Architecture** | Custom Convolutional Neural Network (CNN) |
-| **Deployment** | AWS EC2, Vercel |
+| **Deployment** | Streamlit Cloud |
 | **Data Processing** | NumPy, OpenCV |
 
 ---
