@@ -16,7 +16,6 @@ An AI-powered web application that uses deep learning to detect and diagnose pla
 - 🌱 **Image Upload**: Upload plant leaf images for instant disease detection
 - 🤖 **Deep Learning Model**: Custom CNN architecture built from scratch using TensorFlow/Keras
 - 📊 **Disease Diagnosis**: Accurate identification of various plant diseases
-- 💡 **Treatment Recommendations**: Provides disease details and suggested treatments
 - 💻 **User-Friendly Interface**: Built with Streamlit for seamless user experience
 - ☁️ **Cloud Deployment**: Deployed on streamlit cloud for global accessibility
 - 🔒 **Secure & Scalable**: Production-ready deployment architecture
@@ -60,7 +59,7 @@ plant_disease_project/
 1. **Upload Image**: User uploads a plant leaf image through the web interface
 2. **Preprocessing**: Image is preprocessed (resized, normalized) for model input
 3. **Prediction**:  CNN model analyzes the image and predicts the disease
-4. **Results**: System displays the detected disease with confidence score and treatment recommendations
+4. **Results**: System displays the detected disease with confidence score
 
 ---
 
@@ -110,27 +109,11 @@ plant_disease_project/
 - **Performance**: High accuracy in detecting common plant diseases
 
 ---
-
-## 📊 Supported Plant Diseases
-
-The model can detect various plant diseases including:
-- Bacterial infections
-- Fungal diseases
-- Viral infections
-- Nutrient deficiencies
-- Healthy plant classification
-
-*(Specific disease list depends on the training dataset)*
-
 ---
 
 ## 🌐 Deployment
 
-### AWS EC2 Deployment
-The application is deployed on AWS EC2 for scalable and reliable hosting. 
-
-### Vercel Deployment
-Frontend interface available at: [https://deep-learning-project-brown.vercel. app](https://deep-learning-project-brown.vercel.app)
+The application is deployed on streamlit cloudfor scalable and reliable hosting.
 
 ---
 
